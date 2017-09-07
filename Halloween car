@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Holiday card</title>
+  
+  <style>
+      h1{
+          color:rgb(255, 128, 0);}
+      body{
+          background-color:rgb(3, 3, 3)
+          
+      }
+      
+      body{
+          color:rgb(135, 10, 33)
+      }
+      
+  </style>
+    </head>
+    <body>
+
+        <h1>Happy Halloween!</h1>
+        <img src="https://www.kasandbox.org/programming-images/avatars/mr-pink-orange.png" alt width="200">
+       
+        
+    </body> d
+    
+    <h1> Costume ideas</h1>
+    
+    Vampire <br> Ghost <br> Zombie <br> Harry Potter <br> Werewolf
+    
+    <h1>Have Fun</h1>
+    
+    Hope you guys getlots of candy but don't eat it all at once! Have a spookilicious halloween!!
+</html>
